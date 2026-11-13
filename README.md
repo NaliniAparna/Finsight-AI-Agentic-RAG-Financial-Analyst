@@ -1,4 +1,4 @@
-# Financial Intelligence AI
+# # FinSight AI — Agentic RAG-Powered Financial Intelligence Copilot
 
 ### RAG-Powered Financial Report Analysis with LangGraph and Gemini
 
