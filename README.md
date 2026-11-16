@@ -147,7 +147,7 @@ Financial Intelligence AI/
 │   ├── rag_backend.py
 │   ├── langgraph_backend.py
 │   └── streamlit_app.py
-├── notebooks/
+├── colab_notebooks/
 │   ├── Financial_AI_Day1_Gemini_RAG.ipynb
 │   ├── Financial_AI_RAG_LangGraph.ipynb
 │   └── Financial_AI_Streamlit.ipynb
